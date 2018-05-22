@@ -1,0 +1,8 @@
+Enter the thermal density:54
+Enter the density:7800
+Enter thermal conductivity:490
+Enter the length of rod:0.05
+Enter the step size for x-axis:0.01
+Enter the last time step:9
+Enter the step size of t-axis:3
+The solution is: 22.871925>> 
