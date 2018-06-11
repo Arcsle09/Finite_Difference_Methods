@@ -1,6 +1,5 @@
 close all;
 clear all;
-clc;
 format compact
 l=input('enter the length of the rod:');
 dx=input('enter the stepsize on x-axis:');
